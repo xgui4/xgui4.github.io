@@ -8,7 +8,7 @@ Le site est construit avec du html/css/js. L'utilité de ce site va varier, mais
 
 ## Structure du dépôt
 
-/* avenir */
+/* a venir */
 
 ## Comment contribuer?
 
