@@ -4,6 +4,6 @@ function add_jqmigrate_script() {
 }
 
 $(function(){
-    $("#header").load("header.html"); 
-    $("#footer").load("footer.html"); 
+    $("#header").load("html/header.html"); 
+    $("#footer").load("html/footer.html"); 
   });  
