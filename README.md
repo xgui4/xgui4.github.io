@@ -1,3 +1,3 @@
-# Coming Soon
+# My Website
 
-This is my main website repo, this readme will be rewritten later.
+This is the repo for my main site in xgui4.github.io. 
