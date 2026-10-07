@@ -12,7 +12,8 @@
 body {
     background-color: var(--clr-bg);
     color : var(--clr-primary);
-    font-family:  "Hack Nerd Font";
+    font-family: "Hack Nerd Font";
+    src: url(../fonts/HackNerdFont-Regular.ttf)
 }
 
 a {
